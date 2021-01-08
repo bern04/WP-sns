@@ -1,6 +1,7 @@
 # WP-sns
 Social networking site made using WordPress
 
+Download the files here: https://drive.google.com/file/d/1jzR4P0wnyd37GjvInsjgB_mvej-chEH2/view?usp=sharing
 
 Applications required:
 1. xammpp or any other localhosting applications
